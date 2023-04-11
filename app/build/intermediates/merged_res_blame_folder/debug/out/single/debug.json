@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_vector4.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\vector4.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_buttons2.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\buttons2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_progres.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\progres.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame3.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame3.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame12.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame12.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_vector5.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\vector5.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame4.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame4.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_work_sans.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-31:/font/work_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame7.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame7.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_roboto.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-31:/font/roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_buttons1.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\buttons1.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_vector1.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\vector1.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_vector6.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\vector6.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame_u.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame_u.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame10.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame10.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame5.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame5.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_lato.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-31:/font/lato.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame8.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame8.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\font_lato.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\font\\lato.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\font_work_sans.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\font\\work_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame1.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame1.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_vector2.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\vector2.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\font_work_sans_thin.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\font\\work_sans_thin.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_progres.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-31:/drawable/progres.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame6.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame6.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_vector3.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\vector3.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_ellipse1.png.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\ellipse1.png"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_hijau.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\hijau.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_ic_jam.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\ic_jam.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame9.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame9.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame11.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame11.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_bg_chart.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\bg_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\drawable_frame2.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\drawable\\frame2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dwinu\\.gradle\\daemon\\7.5\\com.example.a10122914latihan1.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    }
+]

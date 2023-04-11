@@ -1,0 +1,3 @@
+com.example.a10122914latihan1.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

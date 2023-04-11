@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame4.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame4.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_ellipse1.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/ellipse1.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_vector4.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/vector4.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_buttons2.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/buttons2.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame8.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame8.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_vector1.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/vector1.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame11.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame11.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame1.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame1.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame3.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame3.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_work_sans.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/font/work_sans.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame7.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame7.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_hijau.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/hijau.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame10.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame10.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_roboto.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/font/roboto.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_vector5.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/vector5.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_work_sans_thin.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/font/work_sans_thin.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_bg_chart.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/bg_chart.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_logo1.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/logo1.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_vector2.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/vector2.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame2.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame2.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/font_lato.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/font/lato.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame9.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame9.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame_u.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame_u.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_ic_jam.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/ic_jam.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame6.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame6.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_vector6.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/vector6.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame5.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame5.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_progres.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/progres.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_buttons1.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/buttons1.xml"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_vector3.png.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/vector3.png"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.a10122914latihan1.app-merged_res-29:/drawable_frame12.xml.flat",
+        "source": "com.example.a10122914latihan1.app-main-30:/drawable/frame12.xml"
+    }
+]
